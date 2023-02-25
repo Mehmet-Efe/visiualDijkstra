@@ -92,7 +92,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="horizontalAlignment" type="int" value="4"/>
-        <Property name="text" type="java.lang.String" value="Edge count : "/>
+        <Property name="text" type="java.lang.String" value="Node count : "/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">
