@@ -4,11 +4,11 @@ Visualized dijkstra algorithm with java graphics
 Example input 
 
 Node count : Integer input
-example : 5
+Example : 5
     
 Adjacency node and weight : "-" should be used to add as many neighborhoods as desired.
 Commas should be used to separate the starting node, the ending node, and the weight.
-example : 0,2,1-2,1,5 
+Example : 0,2,1-2,1,5 
 first part -> 0 and 2 is Adjacency and weight is 1
 second part -> 2 and 1 is Adjacency and weight is 5
       
