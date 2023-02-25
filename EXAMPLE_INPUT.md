@@ -1,7 +1,7 @@
 # visiualDijkstra
 Visualized dijkstra algorithm with java graphics
 
-Example input 
+Example inputs
 
 Node count : Integer input
 Example : 5
