@@ -4,6 +4,8 @@ Visualized dijkstra algorithm with java graphics
 
 Example inputs
 
+-------------------------------------
+
 Node count : Integer input
 
 Example : 5
