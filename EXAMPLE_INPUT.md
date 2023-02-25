@@ -4,6 +4,7 @@ Visualized dijkstra algorithm with java graphics
 Example inputs
 
 Node count : Integer input
+
 Example : 5
     
 Adjacency node and weight : "-" should be used to add as many neighborhoods as desired.
